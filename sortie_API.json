@@ -1,0 +1,130 @@
+[
+    {
+        "id": "a683564b-5139-11e8-8390-02420a000106",
+        "openday": 5,
+        "startp": 1617235200,
+        "endp": 1632960000,
+        "hours": [
+            {
+                "startj": 32400,
+                "endj": 68400
+            }
+        ],
+        "earlyArrival": 900,
+        "duration": 2700,
+        "latitude": "48.8554",
+        "longitude": "2.3450",
+        "debut-activites": 1624614360.0,
+        "fin-activites": 1624617060.0
+    },
+    {
+        "id": "0f33dac5-50a4-11e8-8390-02420a000106",
+        "openday": 5,
+        "startp": 1617235200,
+        "endp": 1632960000,
+        "hours": [
+            {
+                "startj": 36000,
+                "endj": 66600
+            }
+        ],
+        "earlyArrival": "900",
+        "duration": 3600,
+        "latitude": "48.8462",
+        "longitude": "2.3464",
+        "debut-activites": 1624618320.0,
+        "fin-activites": 1624621920.0
+    },
+    {
+        "id": "4dde0ddd-1aeb-11eb-918b-0cc47a0803e4",
+        "openday": 5,
+        "startp": 1609459200,
+        "endp": 1640908800,
+        "hours": [
+            {
+                "startj": 36000,
+                "endj": 64800
+            }
+        ],
+        "earlyArrival": 300,
+        "duration": 5400,
+        "latitude": "48.8548256",
+        "longitude": "2.3661911",
+        "debut-activites": 1624629600.0,
+        "fin-activites": 1624635000.0
+    },
+    {
+        "id": "07cab010-026e-11eb-9cde-0cc47a0803e4",
+        "openday": 5,
+        "startp": 1609459200,
+        "endp": 1640908800,
+        "hours": [
+            {
+                "startj": 36000,
+                "endj": 63000
+            }
+        ],
+        "earlyArrival": 300,
+        "duration": 3600,
+        "latitude": "48.8548328",
+        "longitude": "2.3563212",
+        "debut-activites": 1624635960.0,
+        "fin-activites": 1624639560.0
+    },
+    {
+        "id": "44142fb1-040a-11eb-9cde-0cc47a0803e4",
+        "openday": 5,
+        "startp": 1609459200,
+        "endp": 1640908800,
+        "hours": [
+            {
+                "startj": 36000,
+                "endj": 64800
+            }
+        ],
+        "earlyArrival": 300,
+        "duration": 3600,
+        "latitude": "48.85819",
+        "longitude": "2.3615196",
+        "debut-activites": 1624640340.0,
+        "fin-activites": 1624643940.0
+    },
+    {
+        "id": "76687504-33eb-11eb-9b45-0cc47a0803e4",
+        "openday": 5,
+        "startp": 1609459200,
+        "endp": 1640908800,
+        "hours": [
+            {
+                "startj": 39600,
+                "endj": 45000
+            },
+            {
+                "startj": 43200,
+                "endj": 48600
+            },
+            {
+                "startj": 46800,
+                "endj": 52200
+            },
+            {
+                "startj": 72000,
+                "endj": 77400
+            },
+            {
+                "startj": 75600,
+                "endj": 81000
+            },
+            {
+                "startj": 79200,
+                "endj": 84600
+            }
+        ],
+        "earlyArrival": 900,
+        "duration": 5400,
+        "latitude": "48.8567682",
+        "longitude": "2.3510678",
+        "debut-activites": 1624651200.0,
+        "fin-activites": 1624656600.0
+    }
+]
